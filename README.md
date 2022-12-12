@@ -1,6 +1,6 @@
 # gopass-MaskedEmail Proof of Concept
 
-This is a quick PoC to demo how an integration between the **gopass** password manager and the **Masked Email** feature (e.g., as used by Fastmail) could be integrated.
+This is a quick PoC to demo an integration between the **gopass** password manager and the **Masked Email** feature (e.g., as used by Fastmail).
 
 via [Fastmail](https://www.fastmail.help/hc/en-us/articles/4406536368911-Masked-Email):
 > A Masked Email address is a unique, automatically generated email address that can be used in place of your real email address.
